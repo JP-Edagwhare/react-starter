@@ -1,0 +1,44 @@
+
+import './App.css';
+// import Button from './Button'
+// import Button2 from './Button2'
+// import Card from './Card'
+// import UserProfile from './UserCard';
+
+// function App() {
+//     const products = {
+//       Title: 'Computer Categories',
+//       Description: 'HP Laptops',
+//       price: 3000
+//     };
+
+//     const handleProduct = () => {
+//       alert(products.Title);
+//     };
+
+//     const userData = {
+//       name: 'John Peter',
+//       age: 18,
+//       yearValue: ' years old',
+//       height: 1.80,
+//       heightValue: ' meters'
+//   }
+
+//   return (
+//     <div className="App">
+//          <p>
+//          Welcome! John Peter!
+//         </p>
+//         <p>Please Sign in below</p>
+
+//         <Button text="log in"/>
+//         <Button2 text="Learn More" />
+//        <Card myProduct={products} myClick = {handleProduct} />
+
+//        <h1>USER PROFILE</h1>
+//           <UserProfile userInfo = {userData}/>
+//     </div>
+//   );
+// }
+
+export default App;
